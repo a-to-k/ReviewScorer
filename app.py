@@ -110,6 +110,8 @@ BEGRÜNDUNG: [Kurzer Text]
 
   print("Analysiere Review mit lokalem LLM...")
   response = llm.invoke(prompt)
+  print("\n--- TEXT DER ÄHNLICHSTEN REFERENZEN ---")
+  print(context_str)
   print("\n--- LLM ERGEBNIS ---")
   print(response)
 
