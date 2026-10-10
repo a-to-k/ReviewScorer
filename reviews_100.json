@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "title": "Film-Projekt #1",
+        "text": "Ein lauter, völlig überladener Actionfilm ohne jegliche Logik. Die CGI-Effekte wirken billig, die Dialoge sind hölzern und die Story ist voller Klischees. Nach der Hälfte des Films wünscht man sich nur noch das Ende. Völlig überbewertet.",
+        "score": 3.5
+    },
+    {
+        "id": 2,
+        "title": "Film-Projekt #2",
+        "text": "Ein extrem zähes und langatmiges Drama. Die Figuren bleiben blass und die Handlung kommt über zwei Stunden überhaupt nicht voran. Die melancholische Stimmung kippt schnell ins Nervtötende. Ein durchaus ermüdender Filmabend.",
+        "score": 4.5
+    },
+    {
+        "id": 3,
+        "title": "Film-Projekt #3",
+        "text": "Ein rasanter Sci-Fi-Blockbuster mit spektakulären visuellen Effekten, starken Soundtrack und einem hervorragenden Hauptdarsteller. Die Actionsequenzen sind perfekt choreografiert, und trotz des hohen Tempos kommt die Story nicht zu kurz. Ein echtes Meisterwerk des modernen Kinos.",
+        "score": 8.5
+    },
+    {
+        "id": 4,
+        "title": "Film-Projekt #4",
+        "text": "Ein ruhiges, atmosphärisches Drama, das sich viel Zeit für seine Figuren nimmt. Die Kameraarbeit fängt die karge Landschaft brillant ein. Wer rasante Action sucht, ist hier falsch, aber wer sich auf die emotionale Tiefe einlässt, wird mit großartigen schauspielerischen Leistungen belohnt.",
+        "score": 7.5
+    },
+    {
+        "id": 5,
+        "title": "Film-Projekt #5",
+        "text": "Ein extrem zähes und langatmiges Drama. Die Figuren bleiben blass und die Handlung kommt über zwei Stunden überhaupt nicht voran. Die melancholische Stimmung kippt schnell ins Nervtötende. Ein absolut ermüdender Filmabend.",
+        "score": 4.5
+    },
+    {
+        "id": 6,
+        "title": "Film-Projekt #6",
+        "text": "Ein ruhiges, atmosphärisches Drama, das sich viel Zeit für seine Figuren nimmt. Die Kameraarbeit fängt die karge Landschaft brillant ein. Wer rasante Action sucht, ist hier falsch, aber wer sich auf die emotionale Tiefe einlässt, wird mit großartigen schauspielerischen Leistungen belohnt.",
+        "score": 7.5
+    },
+    {
+        "id": 7,
+        "title": "Film-Projekt #7",
+        "text": "Eine herzerwärmende und witzige Komödie mit viel Charme und überraschend tiefgründigen Momenten. Die Chemie zwischen den Hauptdarstellern stimmt von der ersten Minute an. Ein wunderbarer Wohlfühlfilm, der für viele Lacher sorgt.",
+        "score": 7.5
+    },
+    {
+        "id": 8,
+        "title": "Film-Projekt #8",
+        "text": "Ein lauter, völlig überladener Actionfilm ohne jegliche Logik. Die CGI-Effekte wirken billig, die Dialoge sind hölzern und die Story ist voller Klischees. Nach der Hälfte des Films wünscht man sich nur noch das Ende. Völlig überbewertet.",
+        "score": 3.0
+    },
+    {
+        "id": 9,
+        "title": "Film-Projekt #9",
+        "text": "Ein lauter, völlig überladener Actionfilm ohne jegliche Logik. Die CGI-Effekte wirken billig, die Dialoge sind hölzern und die Story ist voller Klischees. Nach der Hälfte des Films wünscht man sich nur noch das Ende. Völlig überbewertet.",
+        "score": 3.5
+    },
+    {
+        "id": 10,
+        "title": "Film-Projekt #10",
+        "text": "Ein ruhiges, atmosphärisches Drama, das sich viel Zeit für seine Figuren nimmt. Die Kameraarbeit fängt die karge Landschaft brillant ein. Wer rasante Action sucht, ist hier falsch, aber wer sich auf die emotionale Tiefe einlässt, wird mit großartigen schauspielerischen Leistungen belohnt.",
+        "score": 7.5
+    },
+    {
+        "id": 11,
+        "title": "Film-Projekt #11",
+        "text": "Ein ruhiges, atmosphärisches Drama, das sich viel Zeit für seine Figuren nimmt. Die Kameraarbeit fängt die karge Landschaft brillant ein. Wer rasante Action sucht, ist hier falsch, aber wer sich auf die emotionale Tiefe einlässt, wird mit großartigen schauspielerischen Leistungen belohnt.",
+        "score": 8.0
+    },
+    {
+        "id": 12,
+        "title": "Film-Projekt #12",
+        "text": "Ein rasanter Sci-Fi-Blockbuster mit spektakulären visuellen Effekten, genialem Soundtrack und einem hervorragenden Hauptdarsteller. Die Actionsequenzen sind perfekt choreografiert, und trotz des hohen Tempos kommt die Story nicht zu kurz. Ein echtes Meisterwerk des modernen Kinos. Alles in allem eine klare Empfehlung für Fans des Genres.",
+        "score": 8.5
+    },
+    {
+        "id": 13,
+        "title": "Film-Projekt #13",
+        "text": "Ein lauter, völlig überladener Actionfilm ohne jegliche Logik. Die CGI-Effekte wirken billig, die Dialoge sind hölzern und die Story ist voller Klischees. Nach der Hälfte des Films wünscht man sich nur noch das Ende. Völlig überbewertet.",
+        "score": 3.5
+    },
+    {
+        "id": 14,
+        "title": "Film-Projekt #14",
+        "text": "Eine herzerwärmende und witzige Komödie mit viel Charme und überraschend tiefgründigen Momenten. Die Chemie zwischen den Hauptdarstellern stimmt von der ersten Minute an. Ein wunderbarer Wohlfühlfilm, der für viele Lacher sorgt.",
+        "score": 7.0
+    },
+    {
+        "id": 15,
+        "title": "Film-Projekt #15",
+        "text": "Eine herzerwärmende und witzige Komödie mit viel Charme und überraschend tiefgründigen Momenten. Die Chemie zwischen den Hauptdarstellern stimmt von der ersten Minute an. Ein wunderbarer Wohlfühlfilm, der für viele Lacher sorgt. Alles in allem eine klare Empfehlung für Fans des Genres.",
+        "score": 7.5
+    },
+    {
+        "id": 16,
+        "title": "Film-Projekt #16",
+        "text": "Ein extrem zähes und langatmiges Drama. Die Figuren bleiben blass und die Handlung kommt über zwei Stunden überhaupt nicht voran. Die melancholische Stimmung kippt schnell ins Nervtötende. Ein absolut ermüdender Filmabend.",
+        "score": 3.5
+    },
+    {
+        "id": 17,
+        "title": "Film-Projekt #17",
+        "text": "Eine völlig vorhersehbare Komödie mit flachen Gags, peinlichen Slapstick-Einlagen und nervigen Charakteren. Man hat jeden Witz in den letzten Jahren schon tausendmal gesehen. Selbst für einen verregneten Sonntagnachmittag eine herbe Enttäuschung.",
+        "score": 3.5
+    },
+    {
+        "id": 18,
+        "title": "Film-Projekt #18",
+        "text": "Ein rasanter Sci-Fi-Blockbuster mit spektakulären visuellen Effekten, genialem Soundtrack und einem hervorragenden Hauptdarsteller. Die Actionsequenzen sind perfekt choreografiert, und trotz des hohen Tempos kommt die Story nicht zu kurz. Ein echtes Meisterwerk des modernen Kinos. Alles in allem eine klare Empfehlung für Fans des Genres.",
+        "score": 9.5
+    },
+    {
+        "id": 19,
+        "title": "Film-Projekt #19",
+        "text": "Ein lauter, völlig überladener Actionfilm ohne jegliche Logik. Die CGI-Effekte wirken billig, die Dialoge sind hölzern und die Story ist voller Klischees. Nach der Hälfte des Films wünscht man sich nur noch das Ende. Völlig überbewertet.",
+        "score": 4.0
+    },
+    {
+        "id": 20,
+        "title": "Film-Projekt #20",
+        "text": "Eine herzerwärmende und witzige Komödie mit viel Charme und überraschend tiefgründigen Momenten. Die Chemie zwischen den Hauptdarstellern stimmt von der ersten Minute an. Ein wunderbarer Wohlfühlfilm, der für viele Lacher sorgt.",
+        "score": 8.0
+    },
+    {
+        "id": 21,
+        "title": "Film-Projekt #21",
+        "text": "Ein extrem zähes und langatmiges Drama. Die Figuren bleiben blass und die Handlung kommt über zwei Stunden überhaupt nicht voran. Die melancholische Stimmung kippt schnell ins Nervtötende. Ein absolut ermüdender Filmabend.",
+        "score": 4.5
+    },
+    {
+        "id": 22,
+        "title": "Film-Projekt #22",
+        "text": "Eine völlig vorhersehbare Komödie mit flachen Gags, peinlichen Slapstick-Einlagen und nervigen Charakteren. Man hat jeden Witz in den letzten Jahren schon tausendmal gesehen. Selbst für einen verregneten Sonntagnachmittag eine herbe Enttäuschung.",
+        "score": 2.5
+    },
+    {
+        "id": 23,
+        "title": "Film-Projekt #23",
+        "text": "Ein extrem zähes und langatmiges Drama. Die Figuren bleiben blass und die Handlung kommt über zwei Stunden überhaupt nicht voran. Die melancholische Stimmung kippt schnell ins Nervtötende. Ein absolut ermüdender Filmabend.",
+        "score": 4.0
+    },
+    {
+        "id": 24,
+        "title": "Film-Projekt #24",
+        "text": "Eine völlig vorhersehbare Komödie mit flachen Gags, peinlichen Slapstick-Einlagen und nervigen Charakteren. Man hat jeden Witz in den letzten Jahren schon tausendmal gesehen. Selbst für einen verregneten Sonntagnachmittag eine herbe Enttäuschung.",
+        "score": 3.0
+    },
+    {
+        "id": 25,
+        "title": "Film-Projekt #25",
+        "text": "Eine herzerwärmende und witzige Komödie mit viel Charme und überraschend tiefgründigen Momenten. Die Chemie zwischen den Hauptdarstellern stimmt von der ersten Minute an. Ein wunderbarer Wohlfühlfilm, der für viele Lacher sorgt.",
+        "score": 7.0
+    },
+    {
+        "id": 26,
+        "title": "Film-Projekt #26",
+        "text": "Ein ruhiges, atmosphärisches Drama, das sich viel Zeit für seine Figuren nimmt. Die Kameraarbeit fängt die karge Landschaft brillant ein. Wer rasante Action sucht, ist hier falsch, aber wer sich auf die emotionale Tiefe einlässt, wird mit großartigen schauspielerischen Leistungen belohnt. Alles in allem eine klare Empfehlung für Fans des Genres.",
+        "score": 8.5
+    },
+    {
+        "id": 27,
+        "title": "Film-Projekt #27",
+        "text": "Ein ruhiges, atmosphärisches Drama, das sich viel Zeit für seine Figuren nimmt. Die Kameraarbeit fängt die karge Landschaft brillant ein. Wer rasante Action sucht, ist hier falsch, aber wer sich auf die emotionale Tiefe einlässt, wird mit großartigen schauspielerischen Leistungen belohnt. Alles in allem eine klare Empfehlung für Fans des Genres.",
+        "score": 8.5
+    },
+    {
+        "id": 28,
+        "title": "Film-Projekt #28",
+        "text": "Ein rasanter Sci-Fi-Blockbuster mit spektakulären visuellen Effekten, starken Soundtrack und einem hervorragenden Hauptdarsteller. Die Actionsequenzen sind perfekt choreografiert, und trotz des hohen Tempos kommt die Story nicht zu kurz. Ein echtes Meisterwerk des modernen Kinos.",
+        "score": 9.5
+    },
+    {
+        "id": 29,
+        "title": "Film-Projekt #29",
+        "text": "Ein ruhiges, atmosphärisches Drama, das sich viel Zeit für seine Figuren nimmt. Die Kameraarbeit fängt die karge Landschaft brillant ein. Wer rasante Action sucht, ist hier falsch, aber wer sich auf die emotionale Tiefe einlässt, wird mit großartigen schauspielerischen Leistungen belohnt. Alles in allem eine klare Empfehlung für Fans des Genres.",
+        "score": 8.5
+    },
+    {
+        "id": 30,
+        "title": "Film-Projekt #30",
+        "text": "Ein ruhiges, atmosphärisches Drama, das sich viel Zeit für seine Figuren nimmt. Die Kameraarbeit fängt die karge Landschaft brillant ein. Wer rasante Action sucht, ist hier falsch, aber wer sich auf die emotionale Tiefe einlässt, wird mit großartigen schauspielerischen Leistungen belohnt.",
+        "score": 8.5
+    },
+    {
+        "id": 31,
+        "title": "Film-Projekt #31",
+        "text": "Eine völlig vorhersehbare Komödie mit flachen Gags, peinlichen Slapstick-Einlagen und nervigen Charakteren. Man hat jeden Witz in den letzten Jahren schon tausendmal gesehen. Selbst für einen verregneten Sonntagnachmittag eine herbe Enttäuschung.",
+        "score": 2.5
+    },
+    {
+        "id": 32,
+        "title": "Film-Projekt #32",
+        "text": "Ein ruhiges, atmosphärisches Drama, das sich viel Zeit für seine Figuren nimmt. Die Kameraarbeit fängt die karge Landschaft brillant ein. Wer rasante Action sucht, ist hier falsch, aber wer sich auf die emotionale Tiefe einlässt, wird mit großartigen schauspielerischen Leistungen belohnt. Alles in allem eine klare Empfehlung für Fans des Genres.",
+        "score": 7.5
+    },
+    {
+        "id": 33,
+        "title": "Film-Projekt #33",
+        "text": "Ein extrem zähes und langatmiges Drama. Die Figuren bleiben blass und die Handlung kommt über zwei Stunden überhaupt nicht voran. Die melancholische Stimmung kippt schnell ins Nervtötende. Ein absolut ermüdender Filmabend. Alles in allem eine klare Empfehlung für Fans des Genres.",
+        "score": 4.0
+    },
+    {
+        "id": 34,
+        "title": "Film-Projekt #34",
+        "text": "Ein ruhiges, atmosphärisches Drama, das sich viel Zeit für seine Figuren nimmt. Die Kameraarbeit fängt die karge Landschaft brillant ein. Wer rasante Action sucht, ist hier falsch, aber wer sich auf die emotionale Tiefe einlässt, wird mit großartigen schauspielerischen Leistungen belohnt. Alles in allem eine klare Empfehlung für Fans des Genres.",
+        "score": 7.5
+    },
+    {
+        "id": 35,
+        "title": "Film-Projekt #35",
+        "text": "Ein rasanter Sci-Fi-Blockbuster mit spektakulären visuellen Effekten, genialem Soundtrack und einem hervorragenden Hauptdarsteller. Die Actionsequenzen sind perfekt choreografiert, und trotz des hohen Tempos kommt die Story nicht zu kurz. Ein echtes Meisterwerk des modernen Kinos. Alles in allem eine klare Empfehlung für Fans des Genres.",
+        "score": 8.5
+    },
+    {
+        "id": 36,
+        "title": "Film-Projekt #36",
+        "text": "Ein ruhiges, atmosphärisches Drama, das sich viel Zeit für seine Figuren nimmt. Die Kameraarbeit fängt die karge Landschaft brillant ein. Wer rasante Action sucht, ist hier falsch, aber wer sich auf die emotionale Tiefe einlässt, wird mit großartigen schauspielerischen Leistungen belohnt.",
+        "score": 8.5
+    },
+    {
+        "id": 37,
+        "title": "Film-Projekt #37",
+        "text": "Ein extrem zähes und langatmiges Drama. Die Figuren bleiben blass und die Handlung kommt über zwei Stunden überhaupt nicht voran. Die melancholische Stimmung kippt schnell ins Nervtötende. Ein absolut ermüdender Filmabend. Alles in allem eine klare Empfehlung für Fans des Genres.",
+        "score": 3.5
+    },
+    {
+        "id": 38,
+        "title": "Film-Projekt #38",
+        "text": "Ein rasanter Sci-Fi-Blockbuster mit spektakulären visuellen Effekten, starken Soundtrack und einem hervorragenden Hauptdarsteller. Die Actionsequenzen sind perfekt choreografiert, und trotz des hohen Tempos kommt die Story nicht zu kurz. Ein echtes Meisterwerk des modernen Kinos.",
+        "score": 8.5
+    },
+    {
+        "id": 39,
+        "title": "Film-Projekt #39",
+        "text": "Eine herzerwärmende und witzige Komödie mit viel Charme und überraschend tiefgründigen Momenten. Die Chemie zwischen den Hauptdarstellern stimmt von der ersten Minute an. Ein wunderbarer Wohlfühlfilm, der für viele Lacher sorgt.",
+        "score": 8.0
+    },
+    {
+        "id": 40,
+        "title": "Film-Projekt #40",
+        "text": "Ein ruhiges, atmosphärisches Drama, das sich viel Zeit für seine Figuren nimmt. Die Kameraarbeit fängt die karge Landschaft brillant ein. Wer rasante Action sucht, ist hier falsch, aber wer sich auf die emotionale Tiefe einlässt, wird mit großartigen schauspielerischen Leistungen belohnt.",
+        "score": 8.0
+    },
+    {
+        "id": 41,
+        "title": "Film-Projekt #41",
+        "text": "Ein extrem zähes und langatmiges Drama. Die Figuren bleiben blass und die Handlung kommt über zwei Stunden überhaupt nicht voran. Die melancholische Stimmung kippt schnell ins Nervtötende. Ein absolut ermüdender Filmabend.",
+        "score": 4.5
+    },
+    {
+        "id": 42,
+        "title": "Film-Projekt #42",
+        "text": "Ein extrem zähes und langatmiges Drama. Die Figuren bleiben blass und die Handlung kommt über zwei Stunden überhaupt nicht voran. Die melancholische Stimmung kippt schnell ins Nervtötende. Ein durchaus ermüdender Filmabend.",
+        "score": 4.0
+    },
+    {
+        "id": 43,
+        "title": "Film-Projekt #43",
+        "text": "Ein rasanter Sci-Fi-Blockbuster mit spektakulären visuellen Effekten, starken Soundtrack und einem hervorragenden Hauptdarsteller. Die Actionsequenzen sind perfekt choreografiert, und trotz des hohen Tempos kommt die Story nicht zu kurz. Ein echtes Meisterwerk des modernen Kinos.",
+        "score": 9.5
+    },
+    {
+        "id": 44,
+        "title": "Film-Projekt #44",
+        "text": "Ein ruhiges, atmosphärisches Drama, das sich viel Zeit für seine Figuren nimmt. Die Kameraarbeit fängt die karge Landschaft brillant ein. Wer rasante Action sucht, ist hier falsch, aber wer sich auf die emotionale Tiefe einlässt, wird mit großartigen schauspielerischen Leistungen belohnt. Alles in allem eine klare Empfehlung für Fans des Genres.",
+        "score": 8.5
+    },
+    {
+        "id": 45,
+        "title": "Film-Projekt #45",
+        "text": "Eine herzerwärmende und witzige Komödie mit viel Charme und überraschend tiefgründigen Momenten. Die Chemie zwischen den Hauptdarstellern stimmt von der ersten Minute an. Ein wunderbarer Wohlfühlfilm, der für viele Lacher sorgt.",
+        "score": 7.5
+    },
+    {
+        "id": 46,
+        "title": "Film-Projekt #46",
+        "text": "Ein extrem zähes und langatmiges Drama. Die Figuren bleiben blass und die Handlung kommt über zwei Stunden überhaupt nicht voran. Die melancholische Stimmung kippt schnell ins Nervtötende. Ein durchaus ermüdender Filmabend.",
+        "score": 4.5
+    },
+    {
+        "id": 47,
+        "title": "Film-Projekt #47",
+        "text": "Ein lauter, völlig überladener Actionfilm ohne jegliche Logik. Die CGI-Effekte wirken billig, die Dialoge sind hölzern und die Story ist voller Klischees. Nach der Hälfte des Films wünscht man sich nur noch das Ende. Völlig überbewertet. Alles in allem eine klare Empfehlung für Fans des Genres.",
+        "score": 4.0
+    },
+    {
+        "id": 48,
+        "title": "Film-Projekt #48",
+        "text": "Eine herzerwärmende und witzige Komödie mit viel Charme und überraschend tiefgründigen Momenten. Die Chemie zwischen den Hauptdarstellern stimmt von der ersten Minute an. Ein wunderbarer Wohlfühlfilm, der für viele Lacher sorgt.",
+        "score": 8.0
+    },
+    {
+        "id": 49,
+        "title": "Film-Projekt #49",
+        "text": "Ein ruhiges, atmosphärisches Drama, das sich viel Zeit für seine Figuren nimmt. Die Kameraarbeit fängt die karge Landschaft brillant ein. Wer rasante Action sucht, ist hier falsch, aber wer sich auf die emotionale Tiefe einlässt, wird mit großartigen schauspielerischen Leistungen belohnt.",
+        "score": 8.0
+    },
+    {
+        "id": 50,
+        "title": "Film-Projekt #50",
+        "text": "Ein ruhiges, atmosphärisches Drama, das sich viel Zeit für seine Figuren nimmt. Die Kameraarbeit fängt die karge Landschaft brillant ein. Wer rasante Action sucht, ist hier falsch, aber wer sich auf die emotionale Tiefe einlässt, wird mit großartigen schauspielerischen Leistungen belohnt.",
+        "score": 7.5
+    },
+    {
+        "id": 51,
+        "title": "Film-Projekt #51",
+        "text": "Ein rasanter Sci-Fi-Blockbuster mit spektakulären visuellen Effekten, starken Soundtrack und einem hervorragenden Hauptdarsteller. Die Actionsequenzen sind perfekt choreografiert, und trotz des hohen Tempos kommt die Story nicht zu kurz. Ein echtes Meisterwerk des modernen Kinos.",
+        "score": 9.5
+    },
+    {
+        "id": 52,
+        "title": "Film-Projekt #52",
+        "text": "Ein lauter, völlig überladener Actionfilm ohne jegliche Logik. Die CGI-Effekte wirken billig, die Dialoge sind hölzern und die Story ist voller Klischees. Nach der Hälfte des Films wünscht man sich nur noch das Ende. Völlig überbewertet. Alles in allem eine klare Empfehlung für Fans des Genres.",
+        "score": 3.5
+    },
+    {
+        "id": 53,
+        "title": "Film-Projekt #53",
+        "text": "Ein extrem zähes und langatmiges Drama. Die Figuren bleiben blass und die Handlung kommt über zwei Stunden überhaupt nicht voran. Die melancholische Stimmung kippt schnell ins Nervtötende. Ein absolut ermüdender Filmabend.",
+        "score": 3.5
+    },
+    {
+        "id": 54,
+        "title": "Film-Projekt #54",
+        "text": "Ein rasanter Sci-Fi-Blockbuster mit spektakulären visuellen Effekten, genialem Soundtrack und einem hervorragenden Hauptdarsteller. Die Actionsequenzen sind perfekt choreografiert, und trotz des hohen Tempos kommt die Story nicht zu kurz. Ein echtes Meisterwerk des modernen Kinos. Alles in allem eine klare Empfehlung für Fans des Genres.",
+        "score": 8.5
+    },
+    {
+        "id": 55,
+        "title": "Film-Projekt #55",
+        "text": "Ein ruhiges, atmosphärisches Drama, das sich viel Zeit für seine Figuren nimmt. Die Kameraarbeit fängt die karge Landschaft brillant ein. Wer rasante Action sucht, ist hier falsch, aber wer sich auf die emotionale Tiefe einlässt, wird mit großartigen schauspielerischen Leistungen belohnt.",
+        "score": 8.5
+    },
+    {
+        "id": 56,
+        "title": "Film-Projekt #56",
+        "text": "Eine völlig vorhersehbare Komödie mit flachen Gags, peinlichen Slapstick-Einlagen und nervigen Charakteren. Man hat jeden Witz in den letzten Jahren schon tausendmal gesehen. Selbst für einen verregneten Sonntagnachmittag eine herbe Enttäuschung.",
+        "score": 3.5
+    },
+    {
+        "id": 57,
+        "title": "Film-Projekt #57",
+        "text": "Ein extrem zähes und langatmiges Drama. Die Figuren bleiben blass und die Handlung kommt über zwei Stunden überhaupt nicht voran. Die melancholische Stimmung kippt schnell ins Nervtötende. Ein absolut ermüdender Filmabend. Alles in allem eine klare Empfehlung für Fans des Genres.",
+        "score": 4.5
+    },
+    {
+        "id": 58,
+        "title": "Film-Projekt #58",
+        "text": "Eine herzerwärmende und witzige Komödie mit viel Charme und überraschend tiefgründigen Momenten. Die Chemie zwischen den Hauptdarstellern stimmt von der ersten Minute an. Ein wunderbarer Wohlfühlfilm, der für viele Lacher sorgt.",
+        "score": 7.5
+    },
+    {
+        "id": 59,
+        "title": "Film-Projekt #59",
+        "text": "Ein extrem zähes und langatmiges Drama. Die Figuren bleiben blass und die Handlung kommt über zwei Stunden überhaupt nicht voran. Die melancholische Stimmung kippt schnell ins Nervtötende. Ein absolut ermüdender Filmabend.",
+        "score": 3.5
+    },
+    {
+        "id": 60,
+        "title": "Film-Projekt #60",
+        "text": "Ein extrem zähes und langatmiges Drama. Die Figuren bleiben blass und die Handlung kommt über zwei Stunden überhaupt nicht voran. Die melancholische Stimmung kippt schnell ins Nervtötende. Ein durchaus ermüdender Filmabend.",
+        "score": 3.5
+    },
+    {
+        "id": 61,
+        "title": "Film-Projekt #61",
+        "text": "Ein ruhiges, atmosphärisches Drama, das sich viel Zeit für seine Figuren nimmt. Die Kameraarbeit fängt die karge Landschaft brillant ein. Wer rasante Action sucht, ist hier falsch, aber wer sich auf die emotionale Tiefe einlässt, wird mit großartigen schauspielerischen Leistungen belohnt.",
+        "score": 8.5
+    },
+    {
+        "id": 62,
+        "title": "Film-Projekt #62",
+        "text": "Ein rasanter Sci-Fi-Blockbuster mit spektakulären visuellen Effekten, genialem Soundtrack und einem überzeugenden Hauptdarsteller. Die Actionsequenzen sind perfekt choreografiert, und trotz des hohen Tempos kommt die Story nicht zu kurz. Ein echtes Meisterwerk des modernen Kinos.",
+        "score": 9.5
+    },
+    {
+        "id": 63,
+        "title": "Film-Projekt #63",
+        "text": "Eine herzerwärmende und witzige Komödie mit viel Charme und überraschend tiefgründigen Momenten. Die Chemie zwischen den Hauptdarstellern stimmt von der ersten Minute an. Ein wunderbarer Wohlfühlfilm, der für viele Lacher sorgt.",
+        "score": 8.0
+    },
+    {
+        "id": 64,
+        "title": "Film-Projekt #64",
+        "text": "Ein rasanter Sci-Fi-Blockbuster mit spektakulären visuellen Effekten, genialem Soundtrack und einem überzeugenden Hauptdarsteller. Die Actionsequenzen sind perfekt choreografiert, und trotz des hohen Tempos kommt die Story nicht zu kurz. Ein echtes Meisterwerk des modernen Kinos.",
+        "score": 8.5
+    },
+    {
+        "id": 65,
+        "title": "Film-Projekt #65",
+        "text": "Ein extrem zähes und langatmiges Drama. Die Figuren bleiben blass und die Handlung kommt über zwei Stunden überhaupt nicht voran. Die melancholische Stimmung kippt schnell ins Nervtötende. Ein absolut ermüdender Filmabend. Alles in allem eine klare Empfehlung für Fans des Genres.",
+        "score": 4.0
+    },
+    {
+        "id": 66,
+        "title": "Film-Projekt #66",
+        "text": "Ein rasanter Sci-Fi-Blockbuster mit spektakulären visuellen Effekten, genialem Soundtrack und einem hervorragenden Hauptdarsteller. Die Actionsequenzen sind perfekt choreografiert, und trotz des hohen Tempos kommt die Story nicht zu kurz. Ein echtes Meisterwerk des modernen Kinos. Alles in allem eine klare Empfehlung für Fans des Genres.",
+        "score": 8.5
+    },
+    {
+        "id": 67,
+        "title": "Film-Projekt #67",
+        "text": "Ein extrem zähes und langatmiges Drama. Die Figuren bleiben blass und die Handlung kommt über zwei Stunden überhaupt nicht voran. Die melancholische Stimmung kippt schnell ins Nervtötende. Ein durchaus ermüdender Filmabend.",
+        "score": 3.5
+    },
+    {
+        "id": 68,
+        "title": "Film-Projekt #68",
+        "text": "Ein lauter, völlig überladener Actionfilm ohne jegliche Logik. Die CGI-Effekte wirken billig, die Dialoge sind hölzern und die Story ist voller Klischees. Nach der Hälfte des Films wünscht man sich nur noch das Ende. Völlig überbewertet.",
+        "score": 3.0
+    },
+    {
+        "id": 69,
+        "title": "Film-Projekt #69",
+        "text": "Ein rasanter Sci-Fi-Blockbuster mit spektakulären visuellen Effekten, genialem Soundtrack und einem hervorragenden Hauptdarsteller. Die Actionsequenzen sind perfekt choreografiert, und trotz des hohen Tempos kommt die Story nicht zu kurz. Ein echtes Meisterwerk des modernen Kinos.",
+        "score": 8.5
+    },
+    {
+        "id": 70,
+        "title": "Film-Projekt #70",
+        "text": "Ein extrem zähes und langatmiges Drama. Die Figuren bleiben blass und die Handlung kommt über zwei Stunden überhaupt nicht voran. Die melancholische Stimmung kippt schnell ins Nervtötende. Ein absolut ermüdender Filmabend.",
+        "score": 4.5
+    },
+    {
+        "id": 71,
+        "title": "Film-Projekt #71",
+        "text": "Ein ruhiges, atmosphärisches Drama, das sich viel Zeit für seine Figuren nimmt. Die Kameraarbeit fängt die karge Landschaft brillant ein. Wer rasante Action sucht, ist hier falsch, aber wer sich auf die emotionale Tiefe einlässt, wird mit großartigen schauspielerischen Leistungen belohnt. Alles in allem eine klare Empfehlung für Fans des Genres.",
+        "score": 7.5
+    },
+    {
+        "id": 72,
+        "title": "Film-Projekt #72",
+        "text": "Ein extrem zähes und langatmiges Drama. Die Figuren bleiben blass und die Handlung kommt über zwei Stunden überhaupt nicht voran. Die melancholische Stimmung kippt schnell ins Nervtötende. Ein absolut ermüdender Filmabend. Alles in allem eine klare Empfehlung für Fans des Genres.",
+        "score": 4.5
+    },
+    {
+        "id": 73,
+        "title": "Film-Projekt #73",
+        "text": "Ein ruhiges, atmosphärisches Drama, das sich viel Zeit für seine Figuren nimmt. Die Kameraarbeit fängt die karge Landschaft brillant ein. Wer rasante Action sucht, ist hier falsch, aber wer sich auf die emotionale Tiefe einlässt, wird mit großartigen schauspielerischen Leistungen belohnt.",
+        "score": 7.5
+    },
+    {
+        "id": 74,
+        "title": "Film-Projekt #74",
+        "text": "Eine völlig vorhersehbare Komödie mit flachen Gags, peinlichen Slapstick-Einlagen und nervigen Charakteren. Man hat jeden Witz in den letzten Jahren schon tausendmal gesehen. Selbst für einen verregneten Sonntagnachmittag eine herbe Enttäuschung.",
+        "score": 3.0
+    },
+    {
+        "id": 75,
+        "title": "Film-Projekt #75",
+        "text": "Ein rasanter Sci-Fi-Blockbuster mit spektakulären visuellen Effekten, genialem Soundtrack und einem hervorragenden Hauptdarsteller. Die Actionsequenzen sind perfekt choreografiert, und trotz des hohen Tempos kommt die Story nicht zu kurz. Ein echtes Meisterwerk des modernen Kinos.",
+        "score": 9.0
+    },
+    {
+        "id": 76,
+        "title": "Film-Projekt #76",
+        "text": "Ein rasanter Sci-Fi-Blockbuster mit spektakulären visuellen Effekten, genialem Soundtrack und einem überzeugenden Hauptdarsteller. Die Actionsequenzen sind perfekt choreografiert, und trotz des hohen Tempos kommt die Story nicht zu kurz. Ein echtes Meisterwerk des modernen Kinos.",
+        "score": 9.5
+    },
+    {
+        "id": 77,
+        "title": "Film-Projekt #77",
+        "text": "Ein extrem zähes und langatmiges Drama. Die Figuren bleiben blass und die Handlung kommt über zwei Stunden überhaupt nicht voran. Die melancholische Stimmung kippt schnell ins Nervtötende. Ein absolut ermüdender Filmabend.",
+        "score": 3.5
+    },
+    {
+        "id": 78,
+        "title": "Film-Projekt #78",
+        "text": "Ein lauter, völlig überladener Actionfilm ohne jegliche Logik. Die CGI-Effekte wirken billig, die Dialoge sind hölzern und die Story ist voller Klischees. Nach der Hälfte des Films wünscht man sich nur noch das Ende. Völlig überbewertet.",
+        "score": 3.5
+    },
+    {
+        "id": 79,
+        "title": "Film-Projekt #79",
+        "text": "Ein rasanter Sci-Fi-Blockbuster mit spektakulären visuellen Effekten, genialem Soundtrack und einem hervorragenden Hauptdarsteller. Die Actionsequenzen sind perfekt choreografiert, und trotz des hohen Tempos kommt die Story nicht zu kurz. Ein echtes Meisterwerk des modernen Kinos. Alles in allem eine klare Empfehlung für Fans des Genres.",
+        "score": 9.5
+    },
+    {
+        "id": 80,
+        "title": "Film-Projekt #80",
+        "text": "Ein ruhiges, atmosphärisches Drama, das sich viel Zeit für seine Figuren nimmt. Die Kameraarbeit fängt die karge Landschaft brillant ein. Wer rasante Action sucht, ist hier falsch, aber wer sich auf die emotionale Tiefe einlässt, wird mit großartigen schauspielerischen Leistungen belohnt.",
+        "score": 8.0
+    },
+    {
+        "id": 81,
+        "title": "Film-Projekt #81",
+        "text": "Ein ruhiges, atmosphärisches Drama, das sich viel Zeit für seine Figuren nimmt. Die Kameraarbeit fängt die karge Landschaft brillant ein. Wer rasante Action sucht, ist hier falsch, aber wer sich auf die emotionale Tiefe einlässt, wird mit großartigen schauspielerischen Leistungen belohnt. Alles in allem eine klare Empfehlung für Fans des Genres.",
+        "score": 8.0
+    },
+    {
+        "id": 82,
+        "title": "Film-Projekt #82",
+        "text": "Ein extrem zähes und langatmiges Drama. Die Figuren bleiben blass und die Handlung kommt über zwei Stunden überhaupt nicht voran. Die melancholische Stimmung kippt schnell ins Nervtötende. Ein absolut ermüdender Filmabend.",
+        "score": 4.5
+    },
+    {
+        "id": 83,
+        "title": "Film-Projekt #83",
+        "text": "Eine herzerwärmende und witzige Komödie mit viel Charme und überraschend tiefgründigen Momenten. Die Chemie zwischen den Hauptdarstellern stimmt von der ersten Minute an. Ein wunderbarer Wohlfühlfilm, der für viele Lacher sorgt.",
+        "score": 8.0
+    },
+    {
+        "id": 84,
+        "title": "Film-Projekt #84",
+        "text": "Ein lauter, völlig überladener Actionfilm ohne jegliche Logik. Die CGI-Effekte wirken billig, die Dialoge sind hölzern und die Story ist voller Klischees. Nach der Hälfte des Films wünscht man sich nur noch das Ende. Völlig überbewertet.",
+        "score": 3.0
+    },
+    {
+        "id": 85,
+        "title": "Film-Projekt #85",
+        "text": "Ein extrem zähes und langatmiges Drama. Die Figuren bleiben blass und die Handlung kommt über zwei Stunden überhaupt nicht voran. Die melancholische Stimmung kippt schnell ins Nervtötende. Ein durchaus ermüdender Filmabend.",
+        "score": 4.0
+    },
+    {
+        "id": 86,
+        "title": "Film-Projekt #86",
+        "text": "Eine herzerwärmende und witzige Komödie mit viel Charme und überraschend tiefgründigen Momenten. Die Chemie zwischen den Hauptdarstellern stimmt von der ersten Minute an. Ein wunderbarer Wohlfühlfilm, der für viele Lacher sorgt.",
+        "score": 8.0
+    },
+    {
+        "id": 87,
+        "title": "Film-Projekt #87",
+        "text": "Eine herzerwärmende und witzige Komödie mit viel Charme und überraschend tiefgründigen Momenten. Die Chemie zwischen den Hauptdarstellern stimmt von der ersten Minute an. Ein wunderbarer Wohlfühlfilm, der für viele Lacher sorgt.",
+        "score": 8.0
+    },
+    {
+        "id": 88,
+        "title": "Film-Projekt #88",
+        "text": "Ein rasanter Sci-Fi-Blockbuster mit spektakulären visuellen Effekten, starken Soundtrack und einem hervorragenden Hauptdarsteller. Die Actionsequenzen sind perfekt choreografiert, und trotz des hohen Tempos kommt die Story nicht zu kurz. Ein echtes Meisterwerk des modernen Kinos.",
+        "score": 9.0
+    },
+    {
+        "id": 89,
+        "title": "Film-Projekt #89",
+        "text": "Ein ruhiges, atmosphärisches Drama, das sich viel Zeit für seine Figuren nimmt. Die Kameraarbeit fängt die karge Landschaft brillant ein. Wer rasante Action sucht, ist hier falsch, aber wer sich auf die emotionale Tiefe einlässt, wird mit großartigen schauspielerischen Leistungen belohnt.",
+        "score": 8.5
+    },
+    {
+        "id": 90,
+        "title": "Film-Projekt #90",
+        "text": "Eine völlig vorhersehbare Komödie mit flachen Gags, peinlichen Slapstick-Einlagen und nervigen Charakteren. Man hat jeden Witz in den letzten Jahren schon tausendmal gesehen. Selbst für einen verregneten Sonntagnachmittag eine herbe Enttäuschung.",
+        "score": 3.0
+    },
+    {
+        "id": 91,
+        "title": "Film-Projekt #91",
+        "text": "Ein extrem zähes und langatmiges Drama. Die Figuren bleiben blass und die Handlung kommt über zwei Stunden überhaupt nicht voran. Die melancholische Stimmung kippt schnell ins Nervtötende. Ein absolut ermüdender Filmabend.",
+        "score": 3.5
+    },
+    {
+        "id": 92,
+        "title": "Film-Projekt #92",
+        "text": "Ein lauter, völlig überladener Actionfilm ohne jegliche Logik. Die CGI-Effekte wirken billig, die Dialoge sind hölzern und die Story ist voller Klischees. Nach der Hälfte des Films wünscht man sich nur noch das Ende. Völlig überbewertet. Alles in allem eine klare Empfehlung für Fans des Genres.",
+        "score": 3.0
+    },
+    {
+        "id": 93,
+        "title": "Film-Projekt #93",
+        "text": "Ein rasanter Sci-Fi-Blockbuster mit spektakulären visuellen Effekten, genialem Soundtrack und einem hervorragenden Hauptdarsteller. Die Actionsequenzen sind perfekt choreografiert, und trotz des hohen Tempos kommt die Story nicht zu kurz. Ein echtes Meisterwerk des modernen Kinos. Alles in allem eine klare Empfehlung für Fans des Genres.",
+        "score": 9.5
+    },
+    {
+        "id": 94,
+        "title": "Film-Projekt #94",
+        "text": "Eine herzerwärmende und witzige Komödie mit viel Charme und überraschend tiefgründigen Momenten. Die Chemie zwischen den Hauptdarstellern stimmt von der ersten Minute an. Ein wunderbarer Wohlfühlfilm, der für viele Lacher sorgt.",
+        "score": 7.5
+    },
+    {
+        "id": 95,
+        "title": "Film-Projekt #95",
+        "text": "Ein ruhiges, atmosphärisches Drama, das sich viel Zeit für seine Figuren nimmt. Die Kameraarbeit fängt die karge Landschaft brillant ein. Wer rasante Action sucht, ist hier falsch, aber wer sich auf die emotionale Tiefe einlässt, wird mit großartigen schauspielerischen Leistungen belohnt.",
+        "score": 8.5
+    },
+    {
+        "id": 96,
+        "title": "Film-Projekt #96",
+        "text": "Ein rasanter Sci-Fi-Blockbuster mit spektakulären visuellen Effekten, starken Soundtrack und einem hervorragenden Hauptdarsteller. Die Actionsequenzen sind perfekt choreografiert, und trotz des hohen Tempos kommt die Story nicht zu kurz. Ein echtes Meisterwerk des modernen Kinos.",
+        "score": 8.5
+    },
+    {
+        "id": 97,
+        "title": "Film-Projekt #97",
+        "text": "Eine herzerwärmende und witzige Komödie mit viel Charme und überraschend tiefgründigen Momenten. Die Chemie zwischen den Hauptdarstellern stimmt von der ersten Minute an. Ein wunderbarer Wohlfühlfilm, der für viele Lacher sorgt.",
+        "score": 7.0
+    },
+    {
+        "id": 98,
+        "title": "Film-Projekt #98",
+        "text": "Ein rasanter Sci-Fi-Blockbuster mit spektakulären visuellen Effekten, genialem Soundtrack und einem überzeugenden Hauptdarsteller. Die Actionsequenzen sind perfekt choreografiert, und trotz des hohen Tempos kommt die Story nicht zu kurz. Ein echtes Meisterwerk des modernen Kinos.",
+        "score": 9.5
+    },
+    {
+        "id": 99,
+        "title": "Film-Projekt #99",
+        "text": "Eine herzerwärmende und witzige Komödie mit viel Charme und überraschend tiefgründigen Momenten. Die Chemie zwischen den Hauptdarstellern stimmt von der ersten Minute an. Ein wunderbarer Wohlfühlfilm, der für viele Lacher sorgt.",
+        "score": 7.5
+    },
+    {
+        "id": 100,
+        "title": "Film-Projekt #100",
+        "text": "Ein lauter, völlig überladener Actionfilm ohne jegliche Logik. Die CGI-Effekte wirken billig, die Dialoge sind hölzern und die Story ist voller Klischees. Nach der Hälfte des Films wünscht man sich nur noch das Ende. Völlig überbewertet. Alles in allem eine klare Empfehlung für Fans des Genres.",
+        "score": 4.0
+    }
+]
