@@ -5,6 +5,7 @@ This project serves as a light RAG architecture incl. an evaluation prompt to le
 
 ## Tech Stack
 
+- uv
 - Python
 - ChromaDB
 - llama3
